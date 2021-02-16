@@ -37,6 +37,6 @@ You may also get creative and utilize some of the standard objects within Salesf
 
 Develop an ETL process in Python that loads each of the tables in Salesforce from your MySQL database on AWS. See the starter code for inspiration.
 
-## Resources
+## Resource
 
 Be sure to reference the `simplesalesforce` documentation. You can find more information here: https://github.com/simple-salesforce/simple-salesforce
