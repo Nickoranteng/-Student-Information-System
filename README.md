@@ -1,12 +1,16 @@
-# SalesForce-ETL_Challenge
+# Developers:
+Nicholas Koranteng
+
+Regina Tettey
+
+Ashley Williams
+
+# SalesForce-ETL
 Data migration from MySQL Database hosted by AWS to Salesforce
 migrating data from a cloud MySQL database, hosted on Amazon Web Services (AWS) to a Salesforce application that you will build
 1. Be sure that your MySQL database is set up on AWS
 
-2. Ensure that you have created your Salesforce developer account
-
-3. Set up your Trailhead account on Salesforce and connect it to your developer account
-
+2.
 ## Step 1 - Database Setup
 
 Ensure that your MySQL database has been set up and that the GWSIS objects have been created. Be sure to also load the data tables. We completed these steps as a class during Week 13.
