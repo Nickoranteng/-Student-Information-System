@@ -16,6 +16,8 @@ Regina Tettey
 
 Ashley Williams
 
+Redeat Bekele
+
 # SalesForce-ETL
 Data migration from MySQL Database hosted by AWS to Salesforce
 migrating data from a cloud MySQL database, hosted on Amazon Web Services (AWS) to a Salesforce application that you will build
