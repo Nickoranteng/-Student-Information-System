@@ -56,4 +56,9 @@ Develop an ETL process in Python that loads each of the tables in Salesforce fro
 
 ## Resource
 
-Be sure to reference the `simplesalesforce` documentation. You can find more information here: https://github.com/simple-salesforce/simple-salesforce
+`simplesalesforce` documentation. You can find more information here: https://github.com/simple-salesforce/simple-salesforce
+![salesforceCode (2)](https://user-images.githubusercontent.com/71161293/110718268-a40a7580-81d8-11eb-978e-e1fd46c1c901.png)
+
+![salesforceCode (4)](https://user-images.githubusercontent.com/71161293/110718289-ac62b080-81d8-11eb-9807-8730d4f6d9b9.png)
+
+
