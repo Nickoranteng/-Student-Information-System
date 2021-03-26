@@ -4,9 +4,9 @@ Python
 
 MySQL 
 
-Amazon Web Services (AWS)
 
-Salesforce
+
+
 
 
 # Developers:
