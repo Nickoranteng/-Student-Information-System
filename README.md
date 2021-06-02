@@ -1,14 +1,3 @@
-
-# Programming Languages
-Python
-
-MySQL 
-
-
-
-
-
-
 # Developers:
 Nicholas Koranteng
 
@@ -17,6 +6,14 @@ Regina Tettey
 Ashley Williams
 
 Redeat Bekele
+
+
+
+
+# Programming Languages
+Python
+
+MySQL 
 
 # SalesForce-ETL
 Data migration from a cloud MySQL database, hosted on Amazon Web Services (AWS) to a Salesforce application.
