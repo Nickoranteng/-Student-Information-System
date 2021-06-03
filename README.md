@@ -30,10 +30,10 @@ Data migration from a cloud MySQL database, hosted on Amazon Web Services (AWS) 
 Develop an ETL process in Python that loads each of the tables in Salesforce from your MySQL database on AWS.
 
 # Programming Languages
-Python
-Amazon Web Services
-MySQL 
-Salesforce
+* Python
+* Amazon Web Services
+* MySQL 
+* Salesforce
 
 
 
