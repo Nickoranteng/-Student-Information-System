@@ -11,12 +11,12 @@ Redeat Bekele
 Data migration from a cloud MySQL database, hosted on Amazon Web Services (AWS) to a Salesforce application
 
 ## Database Setup:
-  Set up MySQL database and create an object
+  Set up MySQL database and create object
 
 ## Salesforce Application Setup
  Design the architecture for the system
  
- Include the following tables:
+ Include the following tables(objects):
 * Student
 * Course
 * Class
